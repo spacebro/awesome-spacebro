@@ -15,7 +15,7 @@
 
 ### Tutorials
 
-- [Official doc](https://github.com/spacebro/spacebro/docs)
+- [Official doc](https://github.com/spacebro/spacebro/tree/master/docs)
 
 ## Apps
 
