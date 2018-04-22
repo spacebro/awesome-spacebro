@@ -22,7 +22,7 @@
 ### [spacebroUI](https://github.com/spacebro/spacebroUI)
 
 A visual editor to connect spacebro apps together, showcased
-[here](http://spacebro.space)
+[here](http://spacebro.estu.la/ui/)
 
 ### [chokibro](https://github.com/soixantecircuits/chokibro)
 
